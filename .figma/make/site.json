@@ -1,0 +1,10 @@
+{
+  "description": "Centralized portal for real estate management enabling quick access to reservations, service requests, visitor management, and exclusive business benefits.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
